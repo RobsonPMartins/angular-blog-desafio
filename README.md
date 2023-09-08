@@ -1,27 +1,29 @@
-# BlogRobsonDesafio
+# Blog de Fofocas dos Vingadores
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
+Bem-vindo ao Blog de Fofocas dos Vingadores! Este é um projeto Angular dedicado a fornecer notícias fictícias e fofocas sobre os Vingadores e seu universo cinematográfico.
 
-## Development server
+## Recursos Principais
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Página Inicial**: Apresenta as últimas fofocas, notícias e teorias sobre os Vingadores e seus membros.
 
-## Code scaffolding
+- **Página de Detalhes da Fofoca**: Permite aos fãs lerem e comentarem sobre as fofocas mais quentes.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Página de Categorias**: Organiza as fofocas em categorias, como "Heróis", "Vilões", "Romances", "Batalhas Épicas" e muito mais.
 
-## Build
+- **Página de Autores**: Saiba mais sobre os autores das fofocas e seus perfis.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Pesquisa de Fofocas**: Encontre rapidamente fofocas sobre seu Vingador favorito ou tópico de interesse.
 
-## Running unit tests
+## Pré-requisitos
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
 
-## Running end-to-end tests
+- [Node.js](https://nodejs.org/)
+- [Angular CLI](https://angular.io/cli)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Como Iniciar
 
-## Further help
+1. Clone este repositório:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+   ```bash
+   git clone https://github.com/RobsonPMartins/angular-blog-desafio.git
