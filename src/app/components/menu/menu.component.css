@@ -1,0 +1,39 @@
+.menu-container {
+  background-color: #062478;
+  color: #fff;
+  border: 1px solid #fff;
+  padding: 10px;
+  height: 50px;
+  margin: 1px;
+}
+
+nav {
+  display: flex;
+  align-items: end;
+  justify-content: flex-end; /* Alinha o conteúdo à direita do contêiner flexível */
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 3px;
+}
+
+li {
+  display: inline;
+  margin-left: 20px; /* Alterado para margin-left para espaçar à direita */
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+/* .logo {
+  width: 40px;  Ajuste o tamanho do logotipo conforme necessário
+  height: auto;  Isso manterá a proporção original da imagem 
+  margin-right: 10px; /* Espaço entre o logotipo e o texto do menu 
+} */
+

@@ -1,0 +1,51 @@
+.nome-blog{
+  background-color: #fff;
+  height: 30px;
+  margin: 10px;
+  text-align: center;
+  border: 3px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.big-card {
+    border: 3px solid #877f7f;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    max-width: 50%;
+    margin: 10px;
+  }
+  
+  .big-card img {
+    max-width: 80%;
+    height: auto;
+  }
+  
+  .card-content {
+    margin-top: 15px;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1rem;
+    color: #777;
+    margin-bottom: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
